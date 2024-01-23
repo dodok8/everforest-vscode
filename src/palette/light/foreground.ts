@@ -5,22 +5,22 @@
  *--------------------------------------------------------------------------------------------*/
 
 export default {
-  fg: "#5c6a72",
-  red: "#f85552",
-  orange: "#f57d26",
-  yellow: "#dfa000",
-  green: "#8da101",
-  aqua: "#35a77c",
-  blue: "#3a94c5",
-  purple: "#df69ba",
-  dimRed: "#f1706f",
-  dimOrange: "#f39459",
-  dimYellow: "#e4b649",
-  dimGreen: "#a4bb4a",
-  dimAqua: "#6ec398",
-  dimBlue: "#6cb3c6",
-  dimPurple: "#e092be",
-  badge: "#93b259",
+  fg: "#403739",
+  red: "#E17375",
+  orange: "#CA8945",
+  yellow: "#9D9F44",
+  green: "#58AE79",
+  aqua: "#46ABAB",
+  blue: "#51A1D5",
+  purple: "#9F86E4",
+  dimRed: "#A25859",
+  dimOrange: "#8F6841",
+  dimYellow: "#737542",
+  dimGreen: "#4e7f5f",
+  dimAqua: "#437D7D",
+  dimBlue: "#4A76A0",
+  dimPurple: "#7764aa",
+  badge: "#46ABAB",
 };
 
 // vim: fdm=marker fmr={{{,}}}:
